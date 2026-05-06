@@ -1,0 +1,25 @@
+{
+    "name": "Certify",
+    "version": "0.0.1",
+    "uuid": "48059dc7-6334-4f2f-bc94-3546c83d3a87",
+    "command": "certify",
+    "type": ".net",
+    "repository": "https://github.com/nukeratarmory/Certify",
+    "metadata": {
+        "author": [
+            {
+                "name": "GhostPack",
+                "original_repository": "https://github.com/GhostPack/Certify"
+            },
+            {
+                "name": "sliver",
+                "original_repository": "https://github.com/sliverarmory/Certify"
+            }
+        ],
+        "platform": [
+            "windows"
+        ],
+        "architecture": "any",
+        "net_version": "4.7"
+    }
+}
