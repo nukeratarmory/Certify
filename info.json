@@ -20,6 +20,6 @@
             "windows"
         ],
         "architecture": "any",
-        "net_version": "4.7"
+        "net_version": "4.0"
     }
 }
